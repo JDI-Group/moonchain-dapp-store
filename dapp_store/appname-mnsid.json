@@ -56,13 +56,6 @@
     },
     "icon": "mxc_dapps_thumbnails/mns.svg",
     "iconV2": "mxc_dapps_thumbnails/mns.png",
-    "icons": {
-      "iconSmall": "https://developer.com/icon_small.png",
-      "iconLarge": "https://developer.com/icon_large.png",
-      "namedhexagon": "0xdeveloper",
-      // Put your own address that had all the named hexagons
-      "lease": "24 months",
-      "islarge": false
-    }
+    "iconV3": "mxc_dapps_thumbnails/icons_v3/mns.svg"
   }
 }
