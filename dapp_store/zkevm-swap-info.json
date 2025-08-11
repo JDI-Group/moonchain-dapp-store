@@ -53,12 +53,6 @@
     },
     "icon": "mxc_dapps_thumbnails/swap-Info-moonbase.svg",
     "iconV2": "mxc_dapps_thumbnails/swap_info.png",
-    "icons": {
-      "iconSmall": "mxc_dapps_thumbnails/mxc-analytics-small.png",
-      "iconLarge": "mxc_dapps_thumbnails/mxc-analytics-medium.png",
-      "namedhexagon": "0x393b4a89C836F0b93c1730AB07bEE1bC9cf7D8Eb",
-      "lease": "24 months",
-      "islarge": true
-    }
+    "iconV3": "mxc_dapps_thumbnails/icons_v3/swap_info.svg"
   }
 }

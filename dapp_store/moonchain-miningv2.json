@@ -53,12 +53,6 @@
     },
     "icon": "mxc_dapps_thumbnails/miningv2-moonbase.svg",
     "iconV2": "mxc_dapps_thumbnails/mining_v2.png",
-    "icons": {
-      "iconSmall": "mxc_dapps_thumbnails/miningv2.png",
-      "iconLarge": "mxc_dapps_thumbnails/miningv2.png",
-      "namedhexagon": "0x393b4a89C836F0b93c1730AB07bEE1bC9cf7D8Eb",
-      "lease": "24 months",
-      "islarge": false
-    }
+    "iconV3": "mxc_dapps_thumbnails/icons_v3/mining.svg"
   }
 }
