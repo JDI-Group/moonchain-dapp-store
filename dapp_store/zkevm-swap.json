@@ -3,6 +3,7 @@
     "name": "DEX",
     "URL": "https://swap.moonchain.com",
     "version": "1.0.0",
+    "mostUsed": true,
     "description": "Your Decentralized Exchange, powered by Moonchain.",
     "providerType": "native",
     "developer": {

@@ -4,6 +4,7 @@
     "URL": "https://geneva-explorer.moonchain.com/",
     "version": "1.0.0",
     "providerType": "native",
+    "mostUsed": true,
     "description": "Welcome to the Moonchain Geneva Explorer.",
     "developer": {
       "name": "mxc.com",

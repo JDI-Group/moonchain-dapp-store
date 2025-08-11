@@ -3,6 +3,7 @@
     "name": "IHO",
     "URL": "https://iho.moonchain.com",
     "version": "1.0.0",
+    "mostUsed": true,
     "description": "The Future of Hardware Mining is FREE!",
     "providerType": "native",
     "developer": {

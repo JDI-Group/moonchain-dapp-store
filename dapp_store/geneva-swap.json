@@ -3,6 +3,7 @@
     "name": "Swap Tokens",
     "URL": "https://geneva-swap.moonchain.com/",
     "version": "1.0.0",
+    "mostUsed": true,
     "description": "Swap a wide range of tokens effortlessly with low fees.",
     "providerType": "native",
     "developer": {
