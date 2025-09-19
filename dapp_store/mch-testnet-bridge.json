@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Bridge",
-    "URL": "https://bridge.mchain.ai/",
+    "URL": "http://hudson-bridge.mchain.ai/",
     "version": "1.0.0",
     "mostUsed": true,
     "description": "Move tokens seamlessly With the L2 - L3 Moonchain bridge",
